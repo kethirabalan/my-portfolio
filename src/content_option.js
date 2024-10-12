@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "KETHIRABALAN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Kethirabalan",
+    description: "I’m Kethirabalan, a web and app developer specializing in full-stack development. Currently working on creating innovative digital solutions.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Kethirabalan",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -16,23 +16,17 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A Bit About Myself",
+    aboutme: "Hi, I'm Kethirabalan, a passionate web and app developer with a strong focus on delivering high-quality, user-friendly websites and applications. With experience in UI/UX design, I specialize in crafting digital experiences that are both visually appealing and highly functional. " +
+        "I provide web development services that are not only professional but also affordable, ensuring businesses of all sizes can establish a strong online presence. My skills cover a wide range of technologies, including Angular, Firebase, Bootstrap, and Ionic, among others. I pride myself on staying up-to-date with the latest trends and best practices to deliver innovative solutions. " +
+        "Whether you need a sleek website, a dynamic web app, or customized solutions, I'm here to turn your vision into reality. Let’s work together to build something great!"
 };
+
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Web Developer",
+        where: "Adaptive Media",
+        date: "July 2024 - Present",
+        location: "Tirunelveli",
     },
 ];
 
@@ -58,19 +52,21 @@ const skills = [{
     },
 ];
 
-const services = [{
+const services = [
+    {
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I create user-friendly and visually appealing interfaces that enhance user experience, ensuring your website or app stands out."
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I develop responsive and feature-rich mobile applications for both Android and iOS platforms, designed to engage users and elevate your brand."
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Full Stack Development",
+        description: "From front-end design to back-end integration, I offer comprehensive web development services that bring your ideas to life with cutting-edge technology."
     },
 ];
+
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
@@ -136,18 +132,18 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+    YOUR_EMAIL: "kethirabalan.dev@gmail.com",
+    // YOUR_PHONE: "(555) 123-4567",
+    description: "I'm here to help you with any inquiries or projects you may have. Whether you have questions about my web development services, want to discuss a new idea, or need assistance with a project, feel free to reach out! Looking forward to connecting with you!",
+    // Create an emailjs.com account 
+    // Check out this tutorial: https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/kethirabalan",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
