@@ -8,10 +8,10 @@ const introdata = {
     title: "I’m Kethirabalan",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
+        second: "I create innovative web solutions",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm a passionate web and app developer with a focus on building high-quality, user-friendly websites and applications. Currently, I work at Adaptive Media, where I create digital experiences that drive engagement and deliver results.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
