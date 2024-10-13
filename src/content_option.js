@@ -135,12 +135,11 @@ const contactConfig = {
     YOUR_EMAIL: "kethirabalan.dev@gmail.com",
     // YOUR_PHONE: "(555) 123-4567",
     description: "I'm here to help you with any inquiries or projects you may have. Whether you have questions about my web development services, want to discuss a new idea, or need assistance with a project, feel free to reach out! Looking forward to connecting with you!",
-    // Create an emailjs.com account 
-    // Check out this tutorial: https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_l85wghz",
+    YOUR_TEMPLATE_ID: "template_spgfpnh",
+    YOUR_PUBLIC_KEY: "aTOuwqBJ_-V-gQ2CV", // Replace 'your_public_key' with your actual public key
 };
+
 
 const socialprofils = {
     github: "https://github.com/kethirabalan",
