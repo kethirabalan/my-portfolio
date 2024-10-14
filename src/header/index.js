@@ -19,6 +19,7 @@ const Headermain = () => {
         <div className="d-flex align-items-center justify-content-between">
           <Link  className="navbar-brand nav_ac" to="/">
             {logotext}
+            <span className="blue-dot"></span>
           </Link>
           <div className="d-flex align-items-center">
           <Themetoggle />
