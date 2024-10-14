@@ -142,7 +142,7 @@ const contactConfig = {
 
 
 const socialprofils = {
-    github: "https://github.com/kethirabalan",
+    github: "https://github.com/kethirabalan-dev",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
