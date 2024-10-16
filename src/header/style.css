@@ -39,14 +39,21 @@
     color: var(--text-color-2);
 }
 
-.blue-dot {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  background-color: blue;
-  border-radius: 50%;
-  margin-left: 8px; /* Adjust this if you need more/less space */
-}
+.color-changing-dot {
+    margin-left: 2px;
+    margin-top: 10px;
+    animation: color-change 5s infinite;
+    font-size: 1.5rem; /* Adjust the size of the dot */
+  }
+  
+  @keyframes color-change {
+    0% { color: red; }
+    25% { color: blue; }
+    50% { color: green; }
+    75% { color: orange; }
+    100% { color: purple; }
+  }
+  
 
 .br-top,
 .br-bottom,
