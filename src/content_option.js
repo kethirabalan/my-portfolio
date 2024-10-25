@@ -30,14 +30,7 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
+const skills = [
     {
         name: "Javascript",
         value: 80,
@@ -142,7 +135,7 @@ const contactConfig = {
 
 
 const socialprofils = {
-    github: "https://github.com/kethirabalan-dev",
+    github: "https://github.com",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
